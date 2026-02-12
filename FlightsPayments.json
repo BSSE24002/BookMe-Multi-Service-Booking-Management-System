@@ -1,0 +1,40 @@
+{
+    "payments": {
+        "Air Punjab": [
+            {
+                "airline": "Air Punjab",
+                "amount": 60000.0,
+                "date": "2025-05-04",
+                "flightID": "AP-222",
+                "method": "PayPal"
+            }
+        ],
+        "AirBlue": [
+            {
+                "airline": "AirBlue",
+                "amount": 59400.00000000001,
+                "date": "2025-05-01",
+                "flightID": "AB-202",
+                "method": "Debit Card"
+            }
+        ],
+        "Emirates": [
+            {
+                "airline": "Emirates",
+                "amount": 297000.0,
+                "date": "2025-05-04",
+                "flightID": "EK-455",
+                "method": "Debit Card"
+            }
+        ],
+        "Qatar Airways": [
+            {
+                "airline": "Qatar Airways",
+                "amount": 171600.0,
+                "date": "2025-05-01",
+                "flightID": "QR-317",
+                "method": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "cnic": "24002",
+        "password": "1111",
+        "role": "Admin",
+        "username": "rafay"
+    },
+    {
+        "cnic": "24003",
+        "password": "1111",
+        "role": "Customer",
+        "username": "ahmed"
+    }
+]

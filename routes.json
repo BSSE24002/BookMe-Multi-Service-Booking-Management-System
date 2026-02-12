@@ -1,0 +1,8 @@
+{
+    "Lahore->Multan": {
+        "distance": 450.0,
+        "from": "Lahore",
+        "rate": 10.0,
+        "to": "Multan"
+    }
+}

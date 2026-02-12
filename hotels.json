@@ -1,0 +1,27 @@
+[
+    {
+        "hotelName": "A",
+        "location": "Lahore",
+        "rating": 5,
+        "rooms": [
+            {
+                "isBooked": false,
+                "price": 2000.0,
+                "roomNumber": "101",
+                "type": "Single"
+            },
+            {
+                "isBooked": false,
+                "price": 4000.0,
+                "roomNumber": "102",
+                "type": "Double"
+            },
+            {
+                "isBooked": true,
+                "price": 6000.0,
+                "roomNumber": "103",
+                "type": "Suite"
+            }
+        ]
+    }
+]

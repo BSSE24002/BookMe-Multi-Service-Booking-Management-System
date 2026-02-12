@@ -1,0 +1,102 @@
+{
+    "airlines": [
+        "PIA",
+        "AirBlue",
+        "Emirates",
+        "Qatar Airways",
+        "Air Punjab"
+    ],
+    "flights": [
+        {
+            "Airline": "AirBlue",
+            "Arrival": "18:45",
+            "BookedSeats": 5,
+            "Date": "2025-05-10",
+            "Departure": "15:15",
+            "FlightID": "AB-202",
+            "From": "KHI",
+            "Price": 27000.0,
+            "To": "PEW",
+            "TotalSeats": 65,
+            "Type": "Domestic"
+        },
+        {
+            "Airline": "Emirates",
+            "Arrival": "10:00",
+            "BookedSeats": 6,
+            "Date": "2025-06-01",
+            "Departure": "03:00",
+            "FlightID": "EK-909",
+            "From": "DXB",
+            "Price": 85000.0,
+            "To": "LHE",
+            "TotalSeats": 120,
+            "Type": "International"
+        },
+        {
+            "Airline": "Emirates",
+            "Arrival": "22:30",
+            "BookedSeats": 5,
+            "Date": "2025-05-05",
+            "Departure": "18:00",
+            "FlightID": "EK-455",
+            "From": "LHE",
+            "Price": 90000.0,
+            "To": "LHR",
+            "TotalSeats": 100,
+            "Type": "International"
+        },
+        {
+            "Airline": "Qatar Airways",
+            "Arrival": "05:50",
+            "BookedSeats": 3,
+            "Date": "2025-05-08",
+            "Departure": "01:20",
+            "FlightID": "QR-317",
+            "From": "DOH",
+            "Price": 78000.0,
+            "To": "ISB",
+            "TotalSeats": 110,
+            "Type": "International"
+        },
+        {
+            "Airline": "AirBlue",
+            "Arrival": "20:15",
+            "BookedSeats": 10,
+            "Date": "2025-05-12",
+            "Departure": "17:30",
+            "FlightID": "AB-555",
+            "From": "PEW",
+            "Price": 27000.0,
+            "To": "KHI",
+            "TotalSeats": 80,
+            "Type": "Domestic"
+        },
+        {
+            "Airline": "PIA",
+            "Arrival": "3:00",
+            "BookedSeats": 6,
+            "Date": "2025-05-13",
+            "Departure": "12:00",
+            "FlightID": "PK-991",
+            "From": "LHR",
+            "Price": 20000.0,
+            "To": "KHI",
+            "TotalSeats": 73,
+            "Type": "Domestic"
+        },
+        {
+            "Airline": "Air Punjab",
+            "Arrival": "3:00",
+            "BookedSeats": 3,
+            "Date": "2025-05-14",
+            "Departure": "11:00",
+            "FlightID": "AP-222",
+            "From": "LHR",
+            "Price": 20000.0,
+            "To": "ISB",
+            "TotalSeats": 200,
+            "Type": "Domestic"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "duration": 120,
+        "genre": "action",
+        "movieSchedule": "7pm",
+        "price": 2000,
+        "rating": 4.0,
+        "title": "spiderman"
+    },
+    {
+        "duration": 200,
+        "genre": "romantic",
+        "movieSchedule": "12pm/5pm/9pm",
+        "price": 1500,
+        "rating": 3.700000047683716,
+        "title": "KabirSingh"
+    }
+]

@@ -1,0 +1,18 @@
+# ninja log v6
+33	7083	7678881323285045	CMakeFiles/untitled.dir/main.cpp.obj	228a7e92a120abf2
+15	14491	7678877657200789	CMakeFiles/untitled.dir/train.cpp.obj	83be5a34c163ec29
+7084	14340	7678881393798552	untitled.exe	79555e4182f0ca16
+31	2626	7680083202506283	CMakeFiles/untitled.dir/main.cpp.obj	d19389da9a31cbaa
+38	5205	7680083202583672	CMakeFiles/untitled.dir/train.cpp.obj	bec2a6d6014d28f2
+5205	7003	7680083254243955	untitled.exe	79555e4182f0ca16
+63	2673	7680134023943332	CMakeFiles/untitled.dir/main.cpp.obj	d19389da9a31cbaa
+71	5285	7680134024026993	CMakeFiles/untitled.dir/train.cpp.obj	bec2a6d6014d28f2
+5285	7306	7680134076164275	untitled.exe	79555e4182f0ca16
+11	2428	7680137247559827	CMakeFiles/untitled.dir/main.cpp.obj	d19389da9a31cbaa
+2435	4161	7680137271794941	untitled.exe	79555e4182f0ca16
+22	5934	7680513537327057	CMakeFiles/untitled.dir/main.cpp.obj	d19389da9a31cbaa
+35	11409	7680513537447883	CMakeFiles/untitled.dir/train.cpp.obj	bec2a6d6014d28f2
+11409	15768	7680513651196520	untitled.exe	79555e4182f0ca16
+116	6397	7680832539566405	CMakeFiles/untitled.dir/main.cpp.obj	d19389da9a31cbaa
+130	12692	7680832539707682	CMakeFiles/untitled.dir/train.cpp.obj	bec2a6d6014d28f2
+12693	17452	7680832665335990	untitled.exe	79555e4182f0ca16

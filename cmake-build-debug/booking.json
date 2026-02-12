@@ -1,0 +1,13 @@
+{
+    "bookedSeats": 0,
+    "price": 250.0,
+    "seats": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "totalSeats": 5,
+    "trainNumber": "T001"
+}

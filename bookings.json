@@ -1,0 +1,9 @@
+{
+    "1": {
+        "car_reg": "1234",
+        "departure": "Lahore",
+        "destination": "Multan",
+        "total_price": 0.0,
+        "user": "Abdullah"
+    }
+}
